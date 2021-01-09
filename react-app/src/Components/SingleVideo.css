@@ -1,0 +1,22 @@
+.videoPage {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.video-container {
+    display: flex;
+    height: min-content;
+    border: 10px solid white;
+    display: grid;
+    margin-top: 20px;
+    
+    
+    
+  }
+
+.go-back-button {
+    justify-content: center;
+}
+

@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans', sans-serif;
+  }
+
+  .title {
+    display: flex;
+    justify-content: center;
+    font-size: 3rem;
+  }
+  
+  .Home,
+  /*.Recipes, */
+  .Ingredients
+  /*.Login*/ {
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+  }
+  /*
+  .Recipes {
+    background-image: url('/images/img-2.jpg');
+    
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+    
+  }
+  */
+
+  /*.Ingredients {
+    background-image: url('/images/img-1.jpg');
+    background-position: center;
+    background-size: fill;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+  }
+  */
+  
+  
