@@ -8,7 +8,7 @@ import Navbar from '../Navbar'
 
 
 function Home() {
-cx
+
     return (
         <>
             <Navbar/>
